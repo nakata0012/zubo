@@ -211,7 +211,5 @@ http://php.jdshipin.com/TVOD/iptv.php?id=as
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="港澳",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港澳",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 group-title="港澳",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
