@@ -217,3 +217,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港澳",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳",东森美洲
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
+#EXTINF:-1 group-title="港澳",东森卫视
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
