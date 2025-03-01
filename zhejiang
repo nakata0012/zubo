@@ -169,3 +169,5 @@ rtp://233.50.202.29:5140
 rtp://233.50.201.117:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",高清直播
 rtp://233.50.200.223:5140
+#EXTINF:-1 group-title="港澳",翡翠台
+http://php.jdshipin.com/smt.php?id=jade_twn
