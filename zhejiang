@@ -221,3 +221,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
 #EXTINF:-1 group-title="港澳",东森卫视
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
+#EXTINF:-1 group-title="港澳",TVB翡翠台
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052638
+#EXTINF:-1 group-title="港澳",TVB星河台
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
+#EXTINF:-1 group-title="港澳",TVB娱乐
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
+#EXTINF:-1 group-title="港澳",TVBS欢乐台
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
