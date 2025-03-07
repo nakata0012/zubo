@@ -237,3 +237,5 @@ https://cdn8.163189.xyz/live/lhox/stream.m3u8
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 group-title="港澳",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港澳",东森新闻台
+zlive://198.204.238.242:6678/efe3b6a9a907ca31508eb8637eade31e
