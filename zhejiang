@@ -170,7 +170,7 @@ rtp://233.50.201.117:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",高清直播
 rtp://233.50.200.223:5140
 #EXTINF:-1 group-title="港澳",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",华丽翡翠台
 http://php.jdshipin.com/smt.php?id=Tvbjade
 #EXTINF:-1 group-title="港澳",无线新闻台
@@ -215,16 +215,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港澳",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="台湾",东森美洲
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
-#EXTINF:-1 group-title="台湾",东森卫视
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
-#EXTINF:-1 group-title="港澳",TVB翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳",TVB星河台
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
-#EXTINF:-1 group-title="港澳",TVBS欢乐台
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
 #EXTINF:-1 group-title="港澳",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="港澳",龙华经典
@@ -275,3 +265,11 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1 group-title="台湾",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",翡翠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",翡翠综合台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",明珠剧集台(北美)
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="港澳",黃金翡翠台
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
