@@ -215,12 +215,12 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港澳",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="港澳",东森美洲
+#EXTINF:-1 group-title="台湾",东森美洲
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
-#EXTINF:-1 group-title="港澳",东森卫视
+#EXTINF:-1 group-title="台湾",东森卫视
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269926
 #EXTINF:-1 group-title="港澳",TVB翡翠台
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052638
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",TVB星河台
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
 #EXTINF:-1 group-title="港澳",TVBS欢乐台
@@ -273,11 +273,5 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 #EXTINF:-1 group-title="台湾",民視第一台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 group-title="台湾",民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
 #EXTINF:-1 group-title="台湾",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="台湾",緯來日本
-http://aktv_stream1.m16tv.cfd/stream/useradd1/null/AKTV.m3u8
-#EXTINF:-1 group-title="台湾",緯來體育
-http://aktv_stream1.m16tv.cfd/stream/useradd1/null-1/AKTV.m3u8
