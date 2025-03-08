@@ -172,7 +172,7 @@ rtp://233.50.200.223:5140
 #EXTINF:-1 group-title="港澳",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",华丽翡翠台
-http://php.jdshipin.com/smt.php?id=Tvbjade
+http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w1008.m3u8
 #EXTINF:-1 group-title="港澳",无线新闻台
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 group-title="港澳",千禧经典台
