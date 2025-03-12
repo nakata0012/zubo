@@ -216,15 +216,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港澳",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="港澳",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 #EXTINF:-1 group-title="港澳",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 #EXTINF:-1 group-title="港澳",龙华偶像
-https://cdn8.163189.xyz/live/lhox/stream.m3u8
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="港澳",龙华洋片
