@@ -169,6 +169,8 @@ rtp://233.50.202.29:5140
 rtp://233.50.201.117:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",高清直播
 rtp://233.50.200.223:5140
+#EXTINF:-1 group-title="中国电信-浙江-组播",五星体育
+http://166.0.199.145:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
 #EXTINF:-1 group-title="港澳",翡翠台
 http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 group-title="港澳",华丽翡翠台
