@@ -223,3 +223,7 @@ rtp://233.50.200.182:5140
 rtp://233.50.200.183:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",BesTV视界4K
 rtp://233.50.200.185:5140
+#EXTINF:-1 group-title="港澳",中天新聞
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+#EXTINF:-1 group-title="港澳",Now新闻台
+http://hls.168.us.kg/u/332/master.m3u8
