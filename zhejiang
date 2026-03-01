@@ -235,15 +235,19 @@ https://cdn8.163189.xyz/163189/lhox
 https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视新闻
 http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",寰宇新聞
-https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视新闻
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中天新闻
-https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视
+http://74.91.26.218:82/live/ttv.m3u8
