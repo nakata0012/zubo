@@ -265,3 +265,11 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
 #EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="生命电影" tvg-logo="https://epg.112114.xyz/logo/生命电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",生命电影
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="公视台语台" tvg-logo="https://epg.112114.xyz/logo/公视台语台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="🔮[三网]港澳台直播" tvg-name="中视菁采台" tvg-logo="https://epg.112114.xyz/logo/中视菁采台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视菁采台
+http://74.91.26.218:82/live/ctvjc.m3u8
