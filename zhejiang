@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="中国电信-浙江-组播",浙江卫视
 rtp://@233.50.201.100:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",浙江钱江
+#EXTINF:-1 group-title="中国电信-浙江-组播",钱江频道
 rtp://@233.50.201.132:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",浙江生活
 rtp://@233.50.201.133:5140
@@ -43,19 +43,19 @@ rtp://@233.50.201.156:5140
 rtp://@233.50.202.11:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",衢州公共
 rtp://@233.50.202.12:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",丽水新闻综合
+#EXTINF:-1 group-title="中国电信-浙江-组播",丽水新闻
 rtp://@233.50.201.162:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",临平新闻
 rtp://@233.50.202.32:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",余杭新闻
 rtp://@233.50.201.159:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",湖州新闻综合
+#EXTINF:-1 group-title="中国电信-浙江-组播",湖州新闻
 rtp://@233.50.201.158:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",金华新闻综合
+#EXTINF:-1 group-title="中国电信-浙江-组播",金华新闻
 rtp://@233.50.201.161:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",嘉兴新闻综合
+#EXTINF:-1 group-title="中国电信-浙江-组播",嘉兴新闻
 rtp://@233.50.201.163:5140
-#EXTINF:-1 group-title="中国电信-浙江-组播",桐乡新闻综合
+#EXTINF:-1 group-title="中国电信-浙江-组播",桐乡新闻
 rtp://@233.50.201.169:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",CCTV-1
 rtp://@233.50.201.118:5140
