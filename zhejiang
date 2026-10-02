@@ -222,6 +222,6 @@ http://192.168.2.3:4022/udp/233.50.200.183:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",BesTV视界4K
 http://192.168.2.3:4022/udp/233.50.200.185:5140
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/jkOgbLw.png" tvg-id="寰宇新闻台",寰宇新闻台
-http://173.208.234.146/live/nowxy.m3u8
+http://192.168.2.3:4022/udp/173.208.234.146/live/nowxy.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/k4fhcPl.png" tvg-id="东森财经新闻",东森财经新闻
-http://173.208.234.146/live/nowbg.m3u8
+http://192.168.2.3:4022/udp/173.208.234.146/live/nowbg.m3u8
