@@ -221,4 +221,5 @@ http://192.168.2.3:4022/udp/233.50.200.182:5140
 http://192.168.2.3:4022/udp/233.50.200.183:5140
 #EXTINF:-1 group-title="中国电信-浙江-组播",BesTV视界4K
 http://192.168.2.3:4022/udp/233.50.200.185:5140
-
+#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-id="368552" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="新聞",[BD]cctv-4k超高清
+https://stream1.freetv.fun/2e338d7416c3646f38a085799295f137668d96a80a4393b71f1b82735ebdc7e8.m3u8
